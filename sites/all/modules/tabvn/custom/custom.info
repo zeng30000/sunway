@@ -1,0 +1,4 @@
+name = custom
+core = 7.x
+description = Proma Custom module
+package = Tabvn

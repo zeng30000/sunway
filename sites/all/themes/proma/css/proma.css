@@ -1,0 +1,218 @@
+#footer-top{
+  border-bottom:1px solid #222427;
+}
+#footer-bottom{
+  position:relative; 
+  z-index:9;
+}
+.footer-social-links{
+  padding-top:9px;
+}
+.form-submit{
+  border: 0 none;
+  padding: 7px 15px;
+  margin-right: 10px;
+}
+.form-text ,.form-textarea{
+  margin:0;
+  font-size:12px;
+  border:none;
+  color:#7a7a7a;
+  padding:8px 14px 12px;
+  outline:none;
+  position:relative;
+  background:#fff;
+  -webkit-border-radius:5px;
+  -moz-border-radius:5px;
+  border-radius:5px;
+  border:2px solid #efefef;
+  box-shadow:inset 0 0 10px #eee, 0px 0px 0px #aaaaaa;
+  -khtml-box-shadow:inset 0 0 10px #eee, 0px 0px 0px #aaaaaa;
+  -moz-box-shadow:inset 0 0 10px #eee, 0px 0px 0px #aaaaaa;
+  -ms-box-shadow:inset 0 0 10px #eee, 0px 0px 0px #aaaaaa;
+  -o-box-shadow:inset 0 0 10px #eee, 0px 0px 0px #aaaaaa;
+  -webkit-box-shadow:inset 0 0 10px #eee, 0px 0px 0px #aaaaaa;
+}
+.entry-utility span img{
+  margin-top: 6px;
+}
+.entry-utility a{
+  padding-left: 0;
+}
+.node .pic2 .field-name-field-image img{
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+.comment-avatar .pic2{
+  float: left;
+  width: 60px;
+  height: 58px;
+  overflow: hidden;
+}
+.comment{
+  padding: 18px;
+
+}
+.comment-right{
+  padding-left: 100px;
+}
+.submitted{
+  font-size: 11px;
+}
+.links li a{
+  background: url("../images/bullets.png") no-repeat scroll right 11px transparent;
+  color: #8CBD2E;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: normal;
+  letter-spacing: 0;
+  margin: 5px 0 0;
+  padding: 3px 12px 0 0;
+}
+a, .sf-menu > li > a:hover, .sf-menu > li.current > a, .sf-menu > li.sfHover > a, .sf-menu li li a:hover, .sf-menu li.sfHover li.sfHover > a, .more, .color_green, ul.list-box .price-text .price, .posttime h1, .smalldate, .posttitle a:hover, .caption.big_green, .caption.very_big_green{
+  color: #8CBD2E;
+}
+.sidebar .block h2{
+  color: #2B2D30;
+  font-family: 'aller_lightregular';
+  text-transform: uppercase;
+  font-size: 18px;
+  margin: 0 0 20px;
+}
+.sidebar .item-list ul li{
+  margin-left: 0;
+}
+.sidebar #block-blog-recent .item-list li{
+  margin: 0 0 6px;
+  padding: 0 0 5px;
+}
+li.active{
+  color: #2B2D30;
+}
+.rp-widget li .smalldate {
+  color: #7A7A7A !important;
+  display: block;
+  font-size: 10px;
+}
+#searchform .form-submit {
+  background: url("../images/icon_search.png") no-repeat scroll right center transparent !important;
+  border: 0 none !important;
+  cursor: pointer;
+  height: 17px;
+  left: 158px;
+  position: absolute;
+  top: 17px;
+  width: 20px;
+  z-index: 10;
+  margin-right: 0;
+  padding-right: 0;
+}
+.sidebar li li {
+  list-style-type: none;
+  margin: 0 0 6px;
+}
+.sidebar .widget{
+  overflow: hidden;
+}
+.tag-cloud .tagadelic{
+  font-size: 11px;
+}
+.sidebar ul {
+  list-style-position: outside;
+  list-style-type: none;
+  margin: 15px 0;
+  padding: 0;
+}
+.sidebar li {
+  list-style-type: none;
+  margin: 0 0 6px;
+  padding: 0 0 5px;
+}
+.tabs-container{
+  width: 99%;
+}
+.item-list .pager li{
+  margin: 0;
+  padding: 0;
+}
+.wp-pagenavi .item-list .pager li.current{
+  font-size: 11px;
+  margin: 0 4px;
+  padding: 7px 11px;
+}
+#footer-top .block h2{
+  font-size: 18px;
+  margin: 0 0 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  font-family: 'aller_lightregular';
+}
+.twitter li{
+  background: url("../images/tweets.png") no-repeat scroll 0 5px transparent;
+  font-size: 11px;
+  line-height: 16px;
+  margin-bottom: 20px;
+  padding-left: 48px;
+}
+.twitter li:last-child{
+  margin-bottom: 0;
+}
+.field-type-taxonomy-term-reference .field-item{
+  display: inline;
+}
+.field-type-taxonomy-term-reference .field-item:after{
+  content: ', ';
+
+}
+.field-type-taxonomy-term-reference .field-item:last-child:after{
+  content: '';
+}
+.node.node-portfolio .field-name-field-image img{
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+.portfolio-heading{
+  font-size: 50px;
+}
+.portfolio-grid .preview.info{
+  bottom: -22px;
+}
+.portfolio-grid ul li img{
+  height: auto;
+}
+.entry-date{
+  z-index: 10;
+}
+.portfolio-grid .view p,.portfolio-grid .view h2{
+  padding-right: 20px;
+}
+.panels-flexible-region-1-center{
+  width: 100%;
+}
+.panel-separator{
+  clear: both;
+}
+.portfolio-grid .item-7.col2 img{
+  
+}
+.panel-flexible .pane-content{
+  overflow: hidden;
+}
+.sf-menu > li > a:hover, .sf-menu > li.current > a, .sf-menu > li.sfHover > a{
+  background: none;
+  border-top: 3px solid;
+}
+.filterable li.current a,.filterable li a:hover,.tag-cloud a:hover,.tabs-nav li.active a,.tabs-nav li a:hover{
+  color: #FFFFFF !important;
+}
+nav{
+  z-index: 100;
+}
+.portfolio-grid .view h2{
+  font-size: 14px;
+}
+.portfolio-grid .view h2 a{
+  color: #FFF !important;
+}
