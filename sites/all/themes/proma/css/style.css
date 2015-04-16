@@ -1169,7 +1169,8 @@ ul.item-nav li.all a {
   margin:0px 1px 1px 0px;
   padding: 0;
   position: relative;
-  background-color: #efefef;
+  background-color: none;
+  color: white;
 }
 .portfolio-grid ul li.col2 {
   width: 479px;
@@ -2374,4 +2375,21 @@ ul.item-nav li.all a {
 }
 .big_green{
   color: #8cbd2e;
+}
+.ol {
+  list-style: inside none decimal;
+}
+.ol li {
+  margin-bottom: 0.5em;
+}
+.adress1 {
+  margin-bottom:1em;
+}
+.adress1 dt {
+  font-weight: bold;
+}
+
+/*-------- homepage footer --------*/
+#block-block-8 {
+  margin-top: 42px;
 }

@@ -29,12 +29,14 @@
           <p><span class="color_gray"><?php print $breadcrumb; ?></span></p>
         <?php endif; ?>
       </article>
+      <!--
       <?php if ($seach_block_form): ?>
         <article style="float:right;" class="grid_1 last-col">
           <?php print $seach_block_form; ?>
         </article>  
       <?php endif; ?>
       <div style="margin-top:3px;" class="brd"></div>
+      -->
     </div>
   </div>
   <!-- // page title -->

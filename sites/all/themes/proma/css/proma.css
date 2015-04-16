@@ -204,6 +204,9 @@ li.active{
   background: none;
   border-top: 3px solid;
 }
+#portfolio-nav a {
+  font-size: 14px;
+}
 .filterable li.current a,.filterable li a:hover,.tag-cloud a:hover,.tabs-nav li.active a,.tabs-nav li a:hover{
   color: #FFFFFF !important;
 }
@@ -216,3 +219,5 @@ nav{
 .portfolio-grid .view h2 a{
   color: #FFF !important;
 }
+
+

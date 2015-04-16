@@ -104,6 +104,10 @@ function proma_preprocess_page(&$vars) {
   }
 
   $vars[sprintf(PROMA_PAGE_TEMPLATE_VARIABLE_PATTERN, 'content')] = PROMA_GRID_COLUMNS - $sidebar_total_width;
+	
+	if($_GET['q'] == 'contact'){
+    drupal_set_title('用户注册');
+  }
 }
 
 function _proma_get_multiple_regions($region_types = array('sidebar_'), $theme_override = NULL) {
@@ -299,6 +303,3 @@ function proma_pager($variables) {
 /*
  * Retunn css format
  */
-
-
-
