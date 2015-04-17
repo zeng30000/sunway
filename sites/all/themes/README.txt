@@ -5,3 +5,5 @@ update Drupal core files.
 
 test vim
 
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
