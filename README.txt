@@ -22,8 +22,7 @@ Legal information about Drupal:
  * Learn about the Drupal trademark and logo policy:
    http://drupal.com/trademark
 
-fdsfsdff fdfd
-
+fdsfsdff fdf
 
 creating a new branch
 
